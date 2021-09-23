@@ -1,2 +1,2 @@
 # leetcode-practice
-力扣联系
+力扣练习
